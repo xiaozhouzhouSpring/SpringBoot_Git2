@@ -18,6 +18,6 @@ public class HelloController {
 
     @RequestMapping("/jack")
     public String jack(){
-        return  "Hello jack";
+        return  "Hello jack2";
     }
 }
